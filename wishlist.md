@@ -24,6 +24,8 @@ Ongoing
   * S02
 * Suits 
   * S04
+* Game of Thrones
+  * S05
 
 Feature
 =======
