@@ -10,8 +10,6 @@ Series
   * Universe
 * Graceland
   * All
-* Firefly
-  * All
 
 Ongoing
 =======
