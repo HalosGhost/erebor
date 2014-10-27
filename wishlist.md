@@ -1,19 +1,29 @@
 Series
 ======
 
-* Doctor Who - 8th series of 2005 reboot and anything you can find of the pre-2005 series
-* Stargate (all seasons and specials)
-   * Universe
-* Graceland - All seasons
+* Doctor Who
+  * 2005
+    * S08
+  * pre-2005
+    * All
+* Stargate
+  * Universe
+* Graceland
+  * All
 * Firefly
+  * All
 
 Ongoing
 =======
 
-* The Legend of Korra - S04
-* Helix - S02
-* Gravity Falls - S02
-* Suits - S04
+* The Legend of Korra
+  * S04
+* Helix
+  * S02
+* Gravity Falls
+  * S02
+* Suits 
+  * S04
 
 Feature
 =======
