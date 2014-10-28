@@ -10,6 +10,10 @@ Series
   * Universe
 * Graceland
   * All
+* Battlestar Galactica (2003)
+  * Mini-series, all seasons and specials
+* Caprica
+  * All seasons
 
 Ongoing
 =======
