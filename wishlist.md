@@ -14,6 +14,8 @@ Series
   * Blood and Chrome
 * Caprica
   * All seasons
+* Elementary (2012)
+  * S01 and S02
 
 Ongoing
 =======
@@ -28,6 +30,8 @@ Ongoing
   * S04
 * Game of Thrones
   * S05
+* Elementary (2012)
+  * S03
 
 Feature
 =======
