@@ -11,7 +11,7 @@ Series
 * Graceland
   * All
 * Battlestar Galactica (2003)
-  * all specials
+  * Blood and Chrome
 * Caprica
   * All seasons
 
