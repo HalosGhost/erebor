@@ -15,7 +15,8 @@ Series
 * Caprica
   * All seasons
 * Elementary (2012)
-  * S01 and S02
+  * S01
+  * S02
 
 Ongoing
 =======
