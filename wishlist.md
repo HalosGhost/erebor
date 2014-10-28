@@ -11,7 +11,9 @@ Series
 * Graceland
   * All
 * Battlestar Galactica (2003)
-  * Mini-series, all seasons and specials
+  * Mini-series
+  * all seasons
+  * all specials
 * Caprica
   * All seasons
 
