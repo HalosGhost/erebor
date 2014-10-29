@@ -13,7 +13,8 @@ Series
 * Battlestar Galactica (2003)
   * Blood and Chrome
 * Caprica
-  * All seasons
+  * S01
+  * S02
 * Elementary (2012)
   * S01
   * S02
@@ -27,6 +28,7 @@ Ongoing
   * S02
 * Gravity Falls
   * S02
+    * E07 "Society of the Blind Eye"
 * Suits 
   * S04
 * Game of Thrones
