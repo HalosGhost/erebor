@@ -28,7 +28,6 @@ Ongoing
   * S02
 * Gravity Falls
   * S02
-    * E07 "Society of the Blind Eye"
 * Suits 
   * S04
 * Game of Thrones
