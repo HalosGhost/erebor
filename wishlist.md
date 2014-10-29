@@ -23,17 +23,17 @@ Ongoing
 =======
 
 * The Legend of Korra
-  * S04
+  * S04 (Fridays)
 * Helix
-  * S02
+  * S02 (16 Jan 2015)
 * Gravity Falls
-  * S02
+  * S02 (Tuesdays)
 * Suits 
-  * S04
+  * S04 (Q1 2015)
 * Game of Thrones
-  * S05
+  * S05 (Apr 2015)
 * Elementary (2012)
-  * S03
+  * S03 (Thursdays)
 
 Feature
 =======
