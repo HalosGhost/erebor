@@ -18,6 +18,14 @@ Series
 * Elementary (2012)
   * S01
   * S02
+* The West Wing (1999)
+  * S01
+  * S02
+  * S03
+  * S04
+  * S05
+  * S06
+  * S07
 
 Ongoing
 =======
