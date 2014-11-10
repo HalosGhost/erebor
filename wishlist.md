@@ -15,6 +15,9 @@ Series
 * Caprica
   * S01
   * S02
+* Dead Like Me (2003)
+  * S01
+  * S02
 * Elementary (2012)
   * S01
   * S02
@@ -47,3 +50,5 @@ Feature
 =======
 
 * Star Wars
+  * Original Trilogy before added footage
+* Dead Like Me: Life After Death (2007)
