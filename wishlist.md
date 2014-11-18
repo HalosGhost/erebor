@@ -46,5 +46,3 @@ Ongoing
 Feature
 =======
 
-* Star Wars
-
