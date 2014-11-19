@@ -49,6 +49,4 @@ Ongoing
 Feature
 =======
 
-* Star Wars
-  * Original Trilogy before added footage
 * Dead Like Me: Life After Death (2007)
