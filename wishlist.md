@@ -44,6 +44,6 @@ Ongoing
 Feature
 =======
 
-* Now you See Me, Now you Don't (2013)
+* Now you See Me (2013)
 * Catch Me if You Can (2002)
 
